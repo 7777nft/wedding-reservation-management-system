@@ -1,0 +1,6 @@
+Open the browser and go to http://localhost/wedding/
+
+Accessing admin accounts
+
+Username: janobe
+Password: janobe
